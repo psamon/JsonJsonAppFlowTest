@@ -1,0 +1,1 @@
+<message xmlns:iib="http://com.ibm.iib/lt/1.0" iib:parser="WSRoot" iib:injectable="true"><JSON iib:parser="json"><Data><left iib:valueType="INTEGER">1</left><right iib:valueType="INTEGER">2</right></Data></JSON></message>
